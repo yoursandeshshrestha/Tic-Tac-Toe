@@ -87,7 +87,7 @@ const checkWinner = () => {
     // If all boxes are filled and no winner is found, it's a draw
     if (draw) {
         textContainer.innerText = "It's a Draw!";
-        resetBtn.innerText = "Play Again";
+        resetBtn.innerText = "Replay";
         toggle();
         disabledBoxes();
     }
