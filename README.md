@@ -42,5 +42,5 @@ To run the project in your local environment, follow these steps:
 
 ## 📸 - Demo Images
 
-<img src='https://github.com/mirayatech/tic-tac-emoji/assets/71933266/3ccda378-3338-4e13-ad89-0b7d72029a8f' width="100%"/>
+<img src='https://github.com/yoursandeshshrestha/tic-tac-toe/blob/main/asset/12.04.2024_23.12.13_REC.png' width="100%"/>
 
