@@ -57,7 +57,7 @@ const enableBoxes = () => {
 
 const showWinner = (winner) => {
     textContainer.innerText = `Congratulations, Player ${winner} is the winner`;
-    resetBtn.innerText = "Play Again"
+    resetBtn.innerText = "Replay"
 }
 
 const checkWinner = () => {
