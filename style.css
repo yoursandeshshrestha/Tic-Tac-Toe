@@ -37,7 +37,10 @@ body{
     height: 90px;
     background-color: white;
     border-radius: 10px;
+    font-size: 40px;
+    font-weight: 500;
     display: flex;
+
     gap: 10px;
     justify-content: center;
     align-items: center;
@@ -51,7 +54,7 @@ body{
     border-radius: 10px;
     height: 80px;
     font-size: 50px;
-    /* background-color: #d0d0d768; */
+    /* background-color: #00ff483d; */
 }
 
 .box{
