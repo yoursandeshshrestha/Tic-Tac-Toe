@@ -16,7 +16,7 @@ const winPatterns = [
     [2, 5, 8],
     [2, 4, 6],
     [3, 4, 5],
-    [6, 7, 8]
+    [6, 7, 8],
 ];
 
 let turnNice = true; // Player Switch
